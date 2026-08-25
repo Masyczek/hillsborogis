@@ -1,0 +1,11 @@
+{
+  "dataset_id": "HIL-005",
+  "dataset_name": "buildings",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Planning_BaseData/MapServer/91",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Planning_BaseData/MapServer/91/query",
+  "acquired_at_utc": "2026-08-25T20:19:26.984780+00:00",
+  "record_count": 43686,
+  "file": "data.json",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}
