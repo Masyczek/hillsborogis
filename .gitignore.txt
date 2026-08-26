@@ -1,5 +1,0 @@
-# Raw Hillsboro GIS snapshots
-20*/
-
-# Python virtual environment
-.venv/
