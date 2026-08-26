@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-002",
+  "dataset_name": "project_boundaries",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/ContructionProjects/FeatureServer/0",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/ContructionProjects/FeatureServer/0/query",
+  "acquired_at_utc": "2026-08-26T02:26:29.809225+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 147,
+  "file": "HIL-002.json",
+  "file_size_bytes": 711736,
+  "sha256": "e0f20a13b4227980400755df9ea9b411c9603ec5f3e1d9924f95399c568db477",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}

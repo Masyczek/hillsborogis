@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-009",
+  "dataset_name": "roadway",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Planning_BaseData/MapServer/80",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Planning_BaseData/MapServer/80/query",
+  "acquired_at_utc": "2026-08-26T02:29:18.586002+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 184,
+  "file": "HIL-009.json",
+  "file_size_bytes": 5644707,
+  "sha256": "331d77416c5c945b4c4d89a75f88e1d0a936f0b767fda1ede3902906941f98bc",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}

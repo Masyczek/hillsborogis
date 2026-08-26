@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-001",
+  "dataset_name": "semiconductor_businesses",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/EcDev_SemiconductorBusinesses/FeatureServer/0",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/EcDev_SemiconductorBusinesses/FeatureServer/0/query",
+  "acquired_at_utc": "2026-08-26T02:26:29.333929+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 59,
+  "file": "HIL-001.json",
+  "file_size_bytes": 52556,
+  "sha256": "a97731f7930c7c747285cc8c7d842f79cfb3c34bf8e5e539bd406ada738f704d",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}

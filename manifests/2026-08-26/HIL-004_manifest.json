@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-004",
+  "dataset_name": "comprehensive_plan",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/LandUseGallery_Prod/FeatureServer/21",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/LandUseGallery_Prod/FeatureServer/21/query",
+  "acquired_at_utc": "2026-08-26T02:26:35.153229+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 297,
+  "file": "HIL-004.json",
+  "file_size_bytes": 2383185,
+  "sha256": "a3f3d0a661df295963a10dba66563fa85ad94081e414d2f2bac842e642d7f0b9",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}
