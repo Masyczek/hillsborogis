@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-007",
+  "dataset_name": "pavement_projects",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/ContructionProjects/FeatureServer/1",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/ContructionProjects/FeatureServer/1/query",
+  "acquired_at_utc": "2026-08-26T02:29:17.380308+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 66,
+  "file": "HIL-007.json",
+  "file_size_bytes": 105915,
+  "sha256": "7646804ce96632aed0c8f1e4c945b56033e25faee696f7f56538fe84a8a9b9f7",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}

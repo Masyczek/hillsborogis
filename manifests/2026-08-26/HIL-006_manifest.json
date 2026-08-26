@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-006",
+  "dataset_name": "metro_buildings",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Planning_BaseData/MapServer/92",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Planning_BaseData/MapServer/92/query",
+  "acquired_at_utc": "2026-08-26T02:27:19.957497+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 138063,
+  "file": "HIL-006.json",
+  "file_size_bytes": 220649333,
+  "sha256": "9246cf61e4cf88dbca0434ad623e45437c46e876d0b9aa7640a5e6c79c9fa8e3",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}

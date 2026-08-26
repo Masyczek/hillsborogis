@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-003",
+  "dataset_name": "zoning",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/LandUseGallery_Prod/FeatureServer/23",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/LandUseGallery_Prod/FeatureServer/23/query",
+  "acquired_at_utc": "2026-08-26T02:26:30.590786+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 353,
+  "file": "HIL-003.json",
+  "file_size_bytes": 1433918,
+  "sha256": "5135b28e0db157c03d2e0e2acc840f527dd23827f58f1f3741014d197f4819a0",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}

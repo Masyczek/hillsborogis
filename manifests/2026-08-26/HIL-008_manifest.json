@@ -1,0 +1,14 @@
+{
+  "dataset_id": "HIL-008",
+  "dataset_name": "city_limits",
+  "source_organization": "City of Hillsboro",
+  "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Hillsboro_City_Limits/FeatureServer/0",
+  "query_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Hillsboro_City_Limits/FeatureServer/0/query",
+  "acquired_at_utc": "2026-08-26T02:29:17.936062+00:00",
+  "snapshot_date": "2026-08-26",
+  "record_count": 27,
+  "file": "HIL-008.json",
+  "file_size_bytes": 199849,
+  "sha256": "c39f30505aa75d7b36523c1aec1e85e275e0791602e0c170f9a097cec9a5e6fa",
+  "notes": "Raw acquisition snapshot. No attribute or geometry transformations performed."
+}
