@@ -1,9 +1,9 @@
 ﻿ZONING_CODE,ZONING_DESCRIPTION
-SFR-10,Single Family Residential
-SFR-8.5,Single Family Residential
-SFR-7,Single Family Residential
-SFR-6,Single Family Residential
-SFR-4.5,Single Family Residential
+R-10,Single Family Residential
+R-8.5,Single Family Residential
+R-7,Single Family Residential
+R-6,Single Family Residential
+R-4.5,Single Family Residential
 SCR-OTC,Station Community Residential - Orenco Townsite Conservation
 SCR-LD,Station Community Residential - Low Density
 SCR-DNC,Station Community Residential - Downtown Neighborhood Conservation
