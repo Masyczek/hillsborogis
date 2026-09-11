@@ -1,0 +1,41 @@
+﻿ZONING_CODE,ZONING_DESCRIPTION
+R-10,Single Family Residential
+R-8.5,Single Family Residential
+R-7,Single Family Residential
+R-6,Single Family Residential
+R-4.5,Single Family Residential
+SCR-OTC,Station Community Residential - Orenco Townsite Conservation
+SCR-LD,Station Community Residential - Low Density
+SCR-DNC,Station Community Residential - Downtown Neighborhood Conservation
+MFR-1,Multi-Family Residential
+MFR-2,Multi-Family Residential
+MFR-3,Multi-Family Residential
+SCR-MD,Station Community Residential - Medium Density
+SCR-HD,Station Community Residential - High Density
+SCR-V,Station Community Residential - Village
+UC-RM,Urban Center - Residential Medium Density
+ESID,Evergreen Special Industrial District
+HSID,Helvetia Special Industrial District
+SSID,Shute Road Special Industrial District
+SID I-P,Special Industrial District
+I-G,Industrial - General
+I-P,Industrial Park
+I-S,Industrial Sanctuary
+SC-BP,Station Community Business Park
+SCI,Station Community Industrial
+C-G,Commercial - General
+C-N,Commercial - Neighborhood
+SCC-DT,Station Community Commercial - Downtown
+SCC-MM,Station Community Commercial - Multi Modal
+SCC-SC,Station Community Commercial - Station Commercial
+UC-OR,Urban Center - Office / Research
+UC-AC,Urban Center - Activity Center
+UC-NC,Urban Center - Neighborhood Center
+MU-N,Mixed-Use - Neighborhood
+UC-MU,Urban Center - Mixed-Use Urban Density
+MU-C,Mixed-Use - Commercial
+MU-VTC,Mixed-Use - Village Town Center
+SCFI,Station Community Fair Complex Institutional
+UC-RP,Urban Center - Research Park
+ANX,Recent Annexation
+CO,County

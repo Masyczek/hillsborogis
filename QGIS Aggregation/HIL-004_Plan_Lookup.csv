@@ -1,0 +1,17 @@
+﻿Code,Description
+RL,Residential Low Density
+RM,Residential Medium Density
+RH,Residential High Density
+RMR,Residential Mid-Rise Density
+C,Commercial
+SCPA,Station Community Planning Area
+MU,Mixed-Use
+MU-UR,Mixed-Use - Urban Residential
+MU-UC,Mixed-Use - Urban Commercial
+MU-UE,Mixed-Use - Urban Employment
+MU-I,Mixed-Use - Institutional
+ANX,Recent Annexation
+OS,Open Space
+FP,Floodplain
+PF,Public Facility
+IN,Industrial
