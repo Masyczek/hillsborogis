@@ -48,7 +48,7 @@ from shapely.validation import explain_validity
 # Define the directory containing the cleaned datasets
 # for this analysis snapshot.
 
-DATA_VERSION = "2026-09-15"
+DATA_VERSION = "2026-09-16"
 
 DATA_ROOT = Path(__file__).parent / DATA_VERSION / "datasets"
 
