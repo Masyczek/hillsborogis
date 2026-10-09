@@ -70,7 +70,9 @@ I used **GeoPackage** as a portable local format for QGIS analysis. The GIS proj
 
 ### Spatial analysis
 
-QGIS provided the primary spatial-analysis environment. The working projected coordinate reference system was **NAD83 / Oregon GIC Lambert (EPSG:2992)**, which uses feet. Polygon intersection areas were converted from square feet to acres using **43,560 square feet per acre**.
+QGIS provided the primary spatial-analysis environment. The source GIS layers were originally provided in different coordinate reference systems (CRS) and were reprojected to a common projected CRS, **NAD83 / Oregon GIC Lambert (EPSG:2992)**, before spatial analysis. This standardization ensured consistent spatial alignment and a common measurement system for area calculations.
+
+Because EPSG:2992 uses feet, polygon intersection areas were converted from square feet to acres using **43,560 square feet per acre**.
 
 Three relationships formed the analytical core:
 
@@ -78,7 +80,7 @@ Three relationships formed the analytical core:
 - **REL-002 — Projects × Comprehensive Plan:** Intersect project boundaries with comprehensive-plan polygons; summarize project overlap by planned land use and project type.
 - **REL-003 — Projects × Buildings:** Associate building footprints with project boundaries; evaluate building-era distributions and project-type composition, using distinct building counts for the overall inventory.
 
-I exported or summarized the resulting attribute tables for pivot-table analysis and chart creation. The charts complement the maps: maps explain **where** relationships occur, while tabular summaries explain **how much** and **how the composition differs**.
+I exported or summarized the resulting attribute tables for pivot-table analysis and chart creation. The charts complement the maps: maps explain **where** relationships occur, while tabular summaries explain **how much** overlap exists and **how the composition differs**.
 
 ### Interpretation rule
 
