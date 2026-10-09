@@ -84,7 +84,7 @@ I exported or summarized the resulting attribute tables for pivot-table analysis
 
 The first analysis compares mapped construction-project boundaries with zoning districts. An initial cross-tabulation of **project intersection acreage by development type and zoning district** identified *Developer Industrial* projects intersecting *Industrial Sanctuary* zoning as a useful area for closer examination.
 
-![Construction project intersection acreage by development type and zoning district.](figures/charts/Construction Project Acreage by Development Type and Zoning District.png)
+![Construction project intersection acreage by development type and zoning district.](figures/charts/Construction%20Project%20Acreage%20by%20Development%20Type%20and%20Zoning%20District.png)
 
 *Figure 2. Construction project acreage by development type and zoning district. This exploratory comparison motivated the Industrial Sanctuary drilldown.*
 
@@ -103,7 +103,7 @@ Rather than interpreting that aggregate as a single kind of industrial construct
 | Other | 4.27 | 18.1% |
 | **Total** | **23.55** | **100.0%** |
 
-![Industrial Sanctuary project intersection acreage by purpose.](figures/charts/rel001_industrial_sanctuary_purpose.png)
+![Industrial Sanctuary project intersection acreage by purpose.](figures/charts/Industrial%20Sanctuary%20Acreage%20by%20Project%20Purpose.png)
 
 *Figure 4. Composition of Developer Industrial project intersection acreage within Industrial Sanctuary zoning. Percentages are rounded.*
 
@@ -117,7 +117,7 @@ This progression—from an aggregate zoning comparison to a project-level drilld
 
 Zoning describes the regulatory land-use framework, while the comprehensive plan provides a longer-term view of intended land use. To examine this distinction, I intersected the same construction-project boundaries with comprehensive-plan polygons and summarized their overlap acreage by project type and planned-land-use category.
 
-![Construction project intersection acreage by comprehensive-plan land-use designation.](figures/charts/rel002_planned_land_use.png)
+![Construction project intersection acreage by comprehensive-plan land-use designation.](figures/charts/Construction%20Project%20Activity%20by%20Planned%20Land%20Use.png)
 
 *Figure 5. Construction project activity by planned land use, measured as project-boundary intersection acreage.*
 
@@ -135,7 +135,7 @@ The third analysis examines the existing built environment rather than land-use 
 
 Across the analyzed project intersections, **1,028 distinct buildings** were identified. Of those, **856 buildings**—approximately **83%**—had recorded construction years of **2010 or later**. This is a descriptive result for buildings spatially associated with the project dataset, not a statement about the age distribution of all buildings in Hillsboro.
 
-![Composition of project types across building-era categories.](figures/charts/rel003_building_era.png)
+![Composition of project types across building-era categories.](figures/charts/Project%20Type%20Distribution%20by%20Building%20Era.png)
 
 *Figure 6. Project type distribution by building era. Each 100% stacked column shows the mix of project types within that building-era group; it does not show the absolute number of buildings in each era.*
 
