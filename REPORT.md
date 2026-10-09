@@ -1,5 +1,8 @@
 # Hillsboro, Oregon: Development, Land Use, and the Built Environment
 
+**Study Area:** Hillsboro, Oregon  
+**Data Snapshot:** September 15, 2026
+
 **A reproducible GIS case study of construction projects, zoning, comprehensive planning, and building age**
 
 > **At a glance:** I built a reproducible spatial-analysis workflow using municipal GIS data, Python, QGIS, and spreadsheet analysis to examine where Hillsboro's construction projects intersect industrial zoning, planned land uses, and existing buildings.
@@ -46,6 +49,12 @@ Hillsboro offers a useful case study because its geography includes established 
 The study uses a **preserved data snapshot**, rather than a continuously updated dashboard. Results therefore describe the records present in the acquired datasets at the time of analysis, not necessarily all projects active today.
 
 ## 3. Data and Methodology
+
+### Data Snapshot
+
+The datasets used in this study were retrieved from the City of Hillsboro's public GIS services on September 15, 2026. The data was preserved as a fixed snapshot to support reproducible analysis.
+
+All spatial relationships, acreage calculations, and visualizations reflect the records available at the time of acquisition rather than continuously updated municipal data.
 
 ### Data acquisition and preparation
 
@@ -151,7 +160,7 @@ Several limitations are central to interpreting this study responsibly.
 
 **Project boundaries are not construction footprints.** Project polygons describe the spatial extents recorded in the municipal dataset. Their intersection acreage with zoning or plan polygons should not be treated as the amount of land physically disturbed, built upon, or completed.
 
-**The dataset is a snapshot.** Public GIS records can be updated, corrected, or reclassified after acquisition. Project status, completeness, and the meaning of individual attributes depend on the source records available at the time of extraction.
+**The dataset is a snapshot.** All datasets were acquired on September 15, 2026. The findings reflect municipal GIS records available at that time, not current construction conditions. Project boundaries, zoning designations, and building records may have changed since acquisition.
 
 **Spatial overlap is not causation or regulatory approval.** The relationship between a project and a zoning or plan designation is geographic. It does not prove that the designation caused the project, that a project is fully compliant, or that a building was constructed as part of an intersecting project.
 
