@@ -46,16 +46,11 @@ Hillsboro offers a useful case study because its geography includes established 
 
 *Figure 1. Hillsboro development study area. The map locates construction-project boundaries in the context of the existing built environment and municipal boundary.*
 
-The study uses a **preserved data snapshot**, rather than a continuously updated dashboard. Results therefore describe the records present in the acquired datasets at the time of analysis, not necessarily all projects active today.
-
 ## 3. Data and Methodology
 
 ### Data Snapshot
 
-The datasets used in this study were retrieved from the City of Hillsboro's public GIS services on September 15, 2026. The data was preserved as a fixed snapshot to support reproducible analysis.
-
-All spatial relationships, acreage calculations, and visualizations reflect the records available at the time of acquisition rather than continuously updated municipal data.
-
+The datasets used in this study were retrieved from the City of Hillsboro's public GIS services on September 15, 2026, and preserved as a fixed snapshot to support reproducible analysis. All findings reflect municipal records available on that date rather than continuously updated construction or land-use conditions.
 ### Data acquisition and preparation
 
 The workflow begins with publicly accessible City of Hillsboro GIS services. I retrieved relevant layers through ArcGIS REST endpoints and used Python notebooks and scripts to inspect attributes, preserve source metadata, clean fields, and prepare local analytical datasets. Where source fields used coded values, I retained or generated readable labels to support interpretation and charting.
