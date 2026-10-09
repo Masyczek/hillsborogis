@@ -84,7 +84,7 @@ I exported or summarized the resulting attribute tables for pivot-table analysis
 
 The first analysis compares mapped construction-project boundaries with zoning districts. An initial cross-tabulation of **project intersection acreage by development type and zoning district** identified *Developer Industrial* projects intersecting *Industrial Sanctuary* zoning as a useful area for closer examination.
 
-![Construction project intersection acreage by development type and zoning district.](figures/charts/rel001_projects_by_zone_and_type.png)
+![Construction project intersection acreage by development type and zoning district.](figures/charts/Construction Project Acreage by Development Type and Zoning District.png)
 
 *Figure 2. Construction project acreage by development type and zoning district. This exploratory comparison motivated the Industrial Sanctuary drilldown.*
 
