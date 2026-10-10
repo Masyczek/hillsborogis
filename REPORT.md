@@ -5,7 +5,7 @@
 
 **A reproducible GIS case study of construction projects, zoning, comprehensive planning, and building age**
 
-> **At a glance:** I built a reproducible spatial-analysis workflow using municipal GIS data, Python, QGIS, and spreadsheet analysis to examine where Hillsboro's construction projects intersect industrial zoning, planned land uses, and existing buildings.
+> **At a glance:** I acquired and prepared municipal GIS datasets, performed three spatial analyses in QGIS, and developed maps and charts to investigate the relationships between construction projects, zoning, planned land uses, and existing buildings.
 
 **Key findings**
 
