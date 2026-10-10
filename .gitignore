@@ -1,8 +1,9 @@
 # Raw Hillsboro GIS snapshots
 20*/
 
-# Python virtual environment
+# Local development environment
 .venv/
+.vscode/
 
 __pycache__/
 *.pyc
